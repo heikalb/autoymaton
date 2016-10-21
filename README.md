@@ -1,0 +1,2 @@
+#Autoymaton
+Autoymata are deterministic finite state automata. machinery.py houses the State and Autoymaton classes. Autoymata consist of States. Once constructed you can pass a string to an Autoymaton and see if it is accepted. You can use autoymaton_main.py to build an Autoymaton interactively and pass strings to it. Just run it in a command line or a terminal. Feel free to use or extend the classes in machinery.py directly in your projects.  
